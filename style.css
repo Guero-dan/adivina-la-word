@@ -1,0 +1,15 @@
+body{
+background-color:rgb(160, 252, 152);
+text-align: center;
+color: blue;
+}
+.dilapalabraspan{
+    background-color: rgba(189, 0, 0, 0.993);
+    padding: 10px;
+    border-radius: 9999999999cm;
+    margin:0 auto;
+    float: none;
+}
+#júpter{
+    letter-spacing: 5px;
+}
